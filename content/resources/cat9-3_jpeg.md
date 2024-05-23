@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/test-course-ibrahim-10/cat9-3.jpeg
+file: /courses/108-test-course-ibrahim-10-spring-2020/cat9-3.jpeg
 file_size: 70147
 file_type: image/jpeg
 image_metadata:
