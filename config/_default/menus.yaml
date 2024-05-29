@@ -7,3 +7,7 @@ leftnav:
   name: Video page
   pageRef: /resources/whatsapp-video-2024-05-23-at-15107-pm_mp4
   weight: 20
+- identifier: beb1a2e7-4ebd-4aa6-b5fb-c4aa5ec86fd1
+  name: External Resource
+  pageRef: /external-resources/external-resource
+  weight: 30
