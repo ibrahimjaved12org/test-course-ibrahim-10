@@ -3,3 +3,7 @@ leftnav:
   name: p1
   pageRef: /pages/p1
   weight: 10
+- identifier: 1886eb79-a641-4065-b50a-5ba2b710d4b0
+  name: Video page
+  pageRef: /resources/whatsapp-video-2024-05-23-at-15107-pm_mp4
+  weight: 20
