@@ -11,3 +11,7 @@ leftnav:
   name: External Resource
   pageRef: /external-resources/external-resource
   weight: 30
+- identifier: external-703718552-1716985152883
+  name: External Link
+  url: http://www.microsoft.com
+  weight: 40
